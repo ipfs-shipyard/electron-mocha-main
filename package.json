@@ -1,7 +1,7 @@
 {
   "name": "electron-mocha-main",
   "version": "11.0.2",
-  "description": "Mocha tests in Electron.",
+  "description": "Mocha tests in Electron, with ESM support for the main process.",
   "main": "lib/main.js",
   "scripts": {
     "pretest": "standard",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jprichardson/electron-mocha.git"
+    "url": "git+https://github.com/ipfs-shipyard/electron-mocha-main.git"
   },
   "keywords": [
     "mocha",
@@ -44,9 +44,9 @@
   "author": "JP Richardson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jprichardson/electron-mocha/issues"
+    "url": "https://github.com/ipfs-shipyard/electron-mocha-main/issues"
   },
-  "homepage": "https://github.com/jprichardson/electron-mocha#readme",
+  "homepage": "https://github.com/ipfs-shipyard/electron-mocha-main#readme",
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "electron-window": "^0.8.0",
