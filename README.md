@@ -1,3 +1,7 @@
+# Temporary fork
+
+This is a fork of `electron-mocha` with the partial fix from https://github.com/jprichardson/electron-mocha/pull/187 applied to let us run ESM tests in the electron main process.
+
 electron-mocha
 ==============
 [![Build Status](https://travis-ci.org/jprichardson/electron-mocha.svg?branch=master)](https://travis-ci.org/jprichardson/electron-mocha)
